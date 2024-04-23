@@ -1,0 +1,3 @@
+npm i axios
+
+npm i react-native-counters     --   https://github.com/yasaricli/react-native-counters.git
